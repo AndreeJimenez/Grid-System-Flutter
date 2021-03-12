@@ -1,17 +1,16 @@
-# examenparcial1
+# Examen 1er Periodo : Grid-System-Flutter
 
-A new Flutter project.
+## Instrucciones
+Con base en el diseño propuesto se deberá programar una aplicación con las siguientes características:
+- Posicionar de manera equivalente el acomodo de los elementos de la interfaz gráfica. (Pag 3 Jamboard)
 
-## Getting Started
+- Se requiere contener una malla que permita a un usuario saber cuando es que ha salido de determinado espacio en su aplicación: Los botones servirán como guía para moverse en el lienso (GridView).
 
-This project is a starting point for a Flutter application.
+- De manera gráfica se deberá indicar en que coordenada se encuentra mediante visualización, ya sea un carácter o diseño de colores para cada segmento del grid.
 
-A few resources to get you started if this is your first Flutter project:
+- Cuando el usuario salga del lienso se le deberá indicar y regresar al origen (diseñado por los desarrolladores).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Grid-System-Flutter" 
+## Integrantes
+* Luis Andree Jimenez Bernal
+* Diego Robledo Mendoza
